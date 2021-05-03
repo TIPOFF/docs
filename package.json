@@ -1,11 +1,11 @@
 {
-  "name": "Tipoff",
+  "name": "tipoff",
   "version": "0.0.1",
-  "description": "Website for documentation of packages in Tipoff ecosystem",
+  "description": "Website for documentation of packages in the Tipoff ecosystem",
   "main": "index.js",
   "authors": {
-    "name": "",
-    "email": ""
+    "name": "Tipoff",
+    "email": "github@tipoff.com"
   },
   "repository": "https://github.com/tipoff/docs/Tipoff",
   "scripts": {
